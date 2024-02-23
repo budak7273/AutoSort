@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 3,
+	"VersionName": "3.0.0",
+	"FriendlyName": "AutoSort",
+	"Description": "Automatically sort your player inventory when you it.",
+	"Category": "Modding",
+	"CreatedBy": "Robb, Boyshall",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.7.0"
+		}
+	],
+	"SemVersion": "3.0.0",
+	"AcceptsAnyRemoteVersion": true
+}
