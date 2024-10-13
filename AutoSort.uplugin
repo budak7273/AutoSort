@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 3,
-	"VersionName": "3.0.0",
+	"VersionName": "3.1.0",
 	"FriendlyName": "AutoSort",
 	"Description": "Automatically sort your player inventory when you it.",
 	"Category": "Modding",
@@ -9,7 +9,7 @@
 	"CreatedByURL": "",
 	"DocsURL": "",
 	"MarketplaceURL": "",
-	"SupportURL": "",
+	"SupportURL": "https://discord.gg/HECuA2yaRH",
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
@@ -18,9 +18,11 @@
 		{
 			"Name": "SML",
 			"Enabled": true,
-			"SemVersion": "^3.7.0"
+			"SemVersion": "^3.8.0"
 		}
 	],
-	"SemVersion": "3.0.0",
-	"AcceptsAnyRemoteVersion": true
+	"SemVersion": "3.1.0",
+	"AcceptsAnyRemoteVersion": true,
+	"GameVersion": ">=365306",
+	"RequiredOnRemote": false
 }

@@ -12,16 +12,14 @@ Client-side only in multiplayer - you can use this mod on any server as long as 
 
 ## Feedback and Bug Reports
 
-<!-- cspell:ignore boyshallll -->
+_This mod is currently being maintained by Robb#6731._
 
-Feel free to contact me on Discord if you have any requests or questions! (`boyshallll`)
-
-Either join the main modding Discord or the Boyshall's Mods Discord (<https://discord.gg/HECuA2yaRH>) and ping me there.
+Either join the main modding Discord or the Boyshall's Mods Discord (<https://discord.gg/HECuA2yaRH>).
 
 ## Support
 
-- Support Boyshall on [PayPal:](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YMT6T58MFFE7Y&source=url)
-- If you enjoy Robb's work, please consider his [completely optional tip jar](https://ko-fi.com/robb4).
+- Robb: If you enjoy my work, please consider my [completely optional tip jar](https://ko-fi.com/robb4).
+- (Legacy author) Boyshall: I'm doing modding for free, but if you want, you can support here : [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YMT6T58MFFE7Y&source=url) thanks for your support  
 
 ## Credits
 
