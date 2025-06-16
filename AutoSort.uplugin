@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 3,
-	"VersionName": "3.1.0",
+	"VersionName": "3.2.0",
 	"FriendlyName": "AutoSort",
 	"Description": "Automatically sort your player inventory when you it.",
 	"Category": "Modding",
@@ -18,11 +18,11 @@
 		{
 			"Name": "SML",
 			"Enabled": true,
-			"SemVersion": "^3.8.0"
+			"SemVersion": "^3.11.1"
 		}
 	],
-	"SemVersion": "3.1.0",
+	"SemVersion": "3.2.0",
 	"AcceptsAnyRemoteVersion": true,
-	"GameVersion": ">=365306",
+	"GameVersion": ">=416835",
 	"RequiredOnRemote": false
 }
