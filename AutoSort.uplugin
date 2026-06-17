@@ -1,15 +1,15 @@
 {
 	"FileVersion": 3,
 	"Version": 3,
-	"VersionName": "3.2.1",
+	"VersionName": "3.2.2",
 	"FriendlyName": "AutoSort",
-	"Description": "Automatically sort your player inventory when you it.",
+	"Description": "Automatically sort your player inventory when you open it.",
 	"Category": "Modding",
-	"CreatedBy": "Robb, Boyshall",
+	"CreatedBy": "Robb",
 	"CreatedByURL": "",
 	"DocsURL": "",
 	"MarketplaceURL": "",
-	"SupportURL": "https://discord.gg/HECuA2yaRH",
+	"SupportURL": "http://discord.gg/zqp6U7Y7Nu",
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
@@ -21,7 +21,7 @@
 			"SemVersion": "^3.12.0"
 		}
 	],
-	"SemVersion": "3.2.1",
+	"SemVersion": "3.2.2",
 	"AcceptsAnyRemoteVersion": true,
 	"GameVersion": ">=491125",
 	"RequiredOnRemote": false

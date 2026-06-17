@@ -7,21 +7,19 @@ You can temporarily pause sorting via the switch near the sorting button or the 
 Client-side only in multiplayer - you can use this mod on any server as long as the server has SML installed.
 
 <video controls="" width="720" height="405">
-  <source src="https://i.imgur.com/6zIBUvG.mp4" autoplay="false" controls="true" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/budak7273/AutoSort/refs/heads/main/ModpageResources/demo.mp4" autoplay="false" controls="true" type="video/mp4">
 </video>
 
 ## Feedback and Bug Reports
 
-_This mod is currently being maintained by Robb#6731._
-
-Either join the main modding Discord or the Boyshall's Mods Discord (<https://discord.gg/HECuA2yaRH>).
+Either join the main modding Discord, and I'll see it, or join the Nog and Rob's Mods Discord (<http://discord.gg/zqp6U7Y7Nu>).
 
 ## Support
 
-- Robb: If you enjoy my work, please consider my [completely optional tip jar](https://ko-fi.com/robb4).
-- (Legacy author) Boyshall: I'm doing modding for free, but if you want, you can support here : [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YMT6T58MFFE7Y&source=url) thanks for your support  
+If you enjoy my work, please consider my [completely optional tip jar](https://ko-fi.com/robb4).
 
 ## Credits
 
 - Robb for rewriting the mod for Update 8
+- Previous mod versions created by Boyshall
 - Icon by deantendo#4265
